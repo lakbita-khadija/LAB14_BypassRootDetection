@@ -216,6 +216,7 @@ Dans la console Objection :
 ```bash
 android root disable
 ```
+<img width="955" height="416" alt="Capture d&#39;écran 2026-05-20 175941" src="https://github.com/user-attachments/assets/f7731030-b3b3-4026-902c-a3a517baceef" />
 
 **Résultat attendu :**
 ```text
